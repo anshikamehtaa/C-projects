@@ -1,2 +1,3 @@
 # C-programs
-It has all programming that I have done in C
+C programming problems that I have solved.
+
